@@ -1,0 +1,10 @@
+Tierart;Name;Chipnummer;Fressverhalten;Lebensraum;ist bedroht?;Größe;Farbe;Herkunft;
+Tiger;Shir Khan;123412;large mammals, small mammals, waterfowl, reptiles;rainforest;yes;;;;
+Lion;Simba;123312;insects, fish, small mammals, large mammals;savannah;yes;;;Asien;
+Lion;Scar;134412;insects, fish, small mammals, large mammals;scrubland;yes;;;Afrika;
+Elephant;Junior;123342;leaves, grass, branches, bark, fruits;savannah;yes;3;;;
+Blue Whale;Willy;127872;krill;north Atlantic;yes;;pale blue;;
+Blue Whale;Mobby Dick;123612;krill;Arctic;yes;;grey;;
+Elephant;Colonel Hathi;754242;leaves, grass, branches, bark, fruits;forest;yes;7;;;
+Lion;Mufasa;123452;insects, fish, small mammals, large mammals;mountains;yes;;;Africa;
+Tiger;Richard Parker;112312;large mammals, small mammals, waterfowl, reptiles;grassland;yes;;;;
